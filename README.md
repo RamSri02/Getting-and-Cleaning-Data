@@ -1,8 +1,9 @@
 # Getting-and-Cleaning-Data
 Peer Graded Assignment - Creating a Tidy Dataset
 
-##UCI HAR DATASET 
-	https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+## UCI HAR DATASET 
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ### The Repo contains the following 
 
@@ -15,7 +16,7 @@ Peer Graded Assignment - Creating a Tidy Dataset
 - dplyr
 - reshape2
 
-##ALGORITHM
+## ALGORITHM
 
 1. Read the test and training dataset values.
 2. Merge the training and test dataset to create a complete dataset for analysis.
@@ -24,6 +25,6 @@ Peer Graded Assignment - Creating a Tidy Dataset
 5. Label the dataset with descriptive variable names.
 6. Create an independent tidy dataset
 
-### The R script directly writes the resultant dataset to the working directory. 
+#### R script directly writes the resultant dataset to the working directory. 
 
 ## Thank You  
